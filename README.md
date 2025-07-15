@@ -1,4 +1,4 @@
-# **SOFIA REFACTOR CHALENGE**
+# **SOFIA REFACTOR CHALLENGE**
 
 ## Informações
 - Nome: Bruno Henrique de Sousa Mouro
@@ -12,18 +12,18 @@ sofia/
 ├── README.md                   
 ├── brain.py                    
 ├── core/                       
-    ├── __init__.py
-    ├── responder.py           
-    ├── intent_router.py       
-    └── cache.py               
+│   ├── __init__.py
+│   ├── responder.py           
+│   ├── intent_router.py       
+│   └── cache.py               
 ├── handlers/
-    ├── __init__.py                  
-    ├── boards_handler.py      
-    ├── file_handler.py        
-    └── general_handler.py   
+│   ├── __init__.py                  
+│   ├── boards_handler.py      
+│   ├── file_handler.py        
+│   └── general_handler.py   
 ├── config/
-    ├── __init__.py                     
-    └── prompts.py             
+│   ├── __init__.py                     
+│   └── prompts.py             
 └── utils/
     ├── __init__.py                      
     └── helpers.py            
