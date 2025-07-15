@@ -45,5 +45,7 @@ sofia/
 
 #### Assim, em *Brain.py* ficam apenas as inicializações dos módulos que farão todos os processos.
 
+> **Além disso**, mantive comentários para cada função e pacote e padronizei os nomes das funções para inglês.
+
 ---
 # *Obrigado pela atenção!*
